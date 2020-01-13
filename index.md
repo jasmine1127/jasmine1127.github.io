@@ -1,14 +1,13 @@
 <table border="0">
   <tr>
-    <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-    </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    <td width="80%">
+      <h1>Li Rui</h1>
+      <p><b>University of Macau</b></p>
+      <p><b>Avenida da Universidade, Taipa,</b></p>
+      <p><b>Macau, China</b></p>
+      <p><b>E-mail: mb75480@um.edu.mo </b></p>
+      <p><b>MSc in Computer Science, University of Macau </b></p>
+      <p><b>BSc in Information System and Management, Shandong University of Technology </b></p>
     </td>
   </tr>
 </table>
